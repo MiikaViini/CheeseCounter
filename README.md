@@ -1,6 +1,9 @@
 # CheeseCounter
 Little software to help people count weight in packaking stage.
-
+!NOTE!
+I didn't feel that it would be necessary to upload all Visual Studio 
+related files, so i provide you code that i created and executable.
+If you want all files, you can contact me via Linkedin
 
 When i was working fulltime in Herkkutilan Oy "cheese factory", i created
 this software to help keep count of packages and weights.
